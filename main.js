@@ -1,2 +1,2 @@
-const a = "Estamos en new-d";
+const a = "Estamos en new-dx";
 console.log(a);
