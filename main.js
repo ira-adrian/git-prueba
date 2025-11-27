@@ -1,2 +1,2 @@
-const a = "Estamos en la Rama Master con merge login";
+const a = "Estamos en Stash";
 console.log(a);
