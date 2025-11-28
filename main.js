@@ -1,2 +1,2 @@
-const a = "Estamos en new-d";
+const a = "Estamos jodidos";
 console.log(a);
