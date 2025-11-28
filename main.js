@@ -1,2 +1,2 @@
-const a = "Estamos jodidos";
+const a = "Estamos en Cambios";
 console.log(a);
